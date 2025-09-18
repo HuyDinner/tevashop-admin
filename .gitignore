@@ -1,0 +1,15 @@
+# Ignore upload folders
+assets/images/products/
+assets/images/logo/
+
+# Ignore system files
+*.log
+*.env
+
+# Ignore vendor if using Composer
+/vendor/
+
+# Ignore node_modules if using npm
+/node_modules/
+# Ignore IDE specific files
+.vscode/
