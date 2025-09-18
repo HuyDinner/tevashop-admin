@@ -19,26 +19,6 @@ Tôi chịu trách nhiệm xây dựng **giao diện người dùng và giao di�
 
 --- 
 
-## 🗂️ Sơ đồ file
----
-admin/
-├── api/ # API endpoints
-├── assets/
-│ ├── images/
-|    └── logo/
-|    └── products/
-├── config/
-│ └── db_config.php # Database configuration
-├── controllers/ # Controller files (business logic)
-├── css
-├── js
-├── models/ # Data models (DB queries)
-├── public
-├── views
-├── db
-
----
-
 ## 🚀 Các tính năng đã triển khai
 
 - Xác thực và kiểm soát phiên đăng nhập
@@ -71,4 +51,5 @@ admin/
 
 > 💼 Tôi chịu trách nhiệm phát triển cả **giao diện người dùng và giao diện quản trị** của bảng điều khiển quản trị.
 Nếu bạn là nhà tuyển dụng hoặc cộng tác viên, vui lòng kết nối qua GitHub!
+
 
